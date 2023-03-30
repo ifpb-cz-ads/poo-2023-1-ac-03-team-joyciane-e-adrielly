@@ -42,3 +42,4 @@ int int1 = 200;
 int int2 = (int) (int1 + long1); // conversão explícita para int
 System.out.println(int2); // imprime 300
 Com a conversão explícita para int, a expressão (int1 + long1) retorna o valor 300, que pode ser atribuído à variável int2 sem problemas. O resultado é impresso como esperado.
+,
