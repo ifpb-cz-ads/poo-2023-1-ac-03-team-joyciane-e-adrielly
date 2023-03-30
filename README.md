@@ -28,3 +28,10 @@ public class Variaveis {
         System.out.println("c = " + c);
     }
 }
+Questão 03;
+i = 1
+j = 2
+p = 20.0
+q = 30.0
+b = true
+c = k
